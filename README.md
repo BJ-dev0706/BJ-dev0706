@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## About me:
 - 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](ckikit734@gmail.com)
+- 📫 How to reach me: [Email](kitcki734@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
