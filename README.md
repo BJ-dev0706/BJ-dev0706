@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](kitcki734@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
