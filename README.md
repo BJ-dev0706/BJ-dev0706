@@ -13,35 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Chi Kit 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BJ-dev0706.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Senior Full Stack Developer from Hong Kong </h3>
-
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
-
-✨ I study: React, Kubernetes, Rust, Nodejs
-
-
-
-## About me:
-- 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](kitcki734@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend`
-
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
-
-## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 1+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
-
 ## Languages and Tools:
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
