@@ -3,15 +3,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building decentralized applications (dApps) using blockchain technologies, smart contracts, and integrating Web3 functionality into full-stack applications.
-- 🌱 I’m currently learning about advanced blockchain scalability solutions, Layer 2 technologies, and exploring new developments in zero-knowledge proofs (ZKPs).
-- 👯 I’m looking to collaborate on projects that involve building secure and scalable blockchain solutions, particularly those related to DeFi (Decentralized Finance) and NFT ecosystems.
-- 🤔 I’m looking for help with optimizing smart contract gas fees, improving transaction speeds, and better integrating Web3 with traditional frontend frameworks like React.
-- 💬 Ask me about blockchain architecture, smart contracts (Solidity), Ethereum, Polkadot, decentralized applications, and integrating blockchain with frontend technologies.
-- 📫 How to reach me: You can contact me via email at [your-email@example.com] or connect with me on LinkedIn at [your LinkedIn URL].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a fully decentralized voting system using Ethereum smart contracts, and it was successfully tested in a real-world scenario!
 -->
+🔭 I’m currently working on building decentralized applications (dApps) using blockchain technologies, smart contracts, and integrating Web3 functionality into full-stack applications.
+🌱 I’m currently learning about advanced blockchain scalability solutions, Layer 2 technologies, and exploring new developments in zero-knowledge proofs (ZKPs).
+👯 I’m looking to collaborate on projects that involve building secure and scalable blockchain solutions, particularly those related to DeFi (Decentralized Finance) and NFT ecosystems.
+🤔 I’m looking for help with optimizing smart contract gas fees, improving transaction speeds, and better integrating Web3 with traditional frontend frameworks like React.
+💬 Ask me about blockchain architecture, smart contracts (Solidity), Ethereum, Polkadot, decentralized applications, and integrating blockchain with frontend technologies.
+📫 How to reach me: You can contact me via email at [your-email@example.com] or connect with me on LinkedIn at [your LinkedIn URL].
+😄 Pronouns: He/Him
+⚡ Fun fact: I once built a fully decentralized voting system using Ethereum smart contracts, and it was successfully tested in a real-world scenario!
 
 ## Languages and Tools:
 
