@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </p>
 
   <p><strong>📫 How to reach me:</strong><br>
-    You can contact me via email at <a href="mailto:your-email@example.com">your-email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/your-linkedin-url">LinkedIn</a>.
+    You can contact me via email at <a href="mailto:kitchi734@gmail.com">your-email@example.com</a>.
   </p>
 
   <p><strong>😄 Pronouns:</strong> He/Him</p>
