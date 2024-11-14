@@ -4,14 +4,39 @@
 Here are some ideas to get you started:
 
 -->
-🔭 I’m currently working on building decentralized applications (dApps) using blockchain technologies, smart contracts, and integrating Web3 functionality into full-stack applications.
-🌱 I’m currently learning about advanced blockchain scalability solutions, Layer 2 technologies, and exploring new developments in zero-knowledge proofs (ZKPs).
-👯 I’m looking to collaborate on projects that involve building secure and scalable blockchain solutions, particularly those related to DeFi (Decentralized Finance) and NFT ecosystems.
-🤔 I’m looking for help with optimizing smart contract gas fees, improving transaction speeds, and better integrating Web3 with traditional frontend frameworks like React.
-💬 Ask me about blockchain architecture, smart contracts (Solidity), Ethereum, Polkadot, decentralized applications, and integrating blockchain with frontend technologies.
-📫 How to reach me: You can contact me via email at [your-email@example.com] or connect with me on LinkedIn at [your LinkedIn URL].
-😄 Pronouns: He/Him
-⚡ Fun fact: I once built a fully decentralized voting system using Ethereum smart contracts, and it was successfully tested in a real-world scenario!
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2>About Me</h2>
+  <p><strong>🔭 I’m currently working on...</strong><br>
+    Building decentralized applications (dApps) using blockchain technologies like Ethereum and Polkadot, smart contracts, and integrating Web3 functionality into full-stack applications. Additionally, I am focused on enhancing web development skills, especially with modern frontend frameworks such as React and backend technologies like Node.js and Python.
+  </p>
+
+  <p><strong>🌱 I’m currently learning...</strong><br>
+    Advanced blockchain scalability solutions, Layer 2 technologies, zero-knowledge proofs (ZKPs), and improving the performance of decentralized applications. I'm also deepening my knowledge in web development tools, including Next.js, TypeScript, and Web3.js integration for seamless user interactions with blockchain-based apps.
+  </p>
+
+  <p><strong>👯 I’m looking to collaborate on...</strong><br>
+    Projects involving secure and scalable blockchain solutions, DeFi (Decentralized Finance), NFT ecosystems, and integrating decentralized technologies with modern web development stacks (React, Node.js, and Web3). I am also interested in building solutions that bridge the gap between traditional web apps and blockchain systems.
+  </p>
+
+  <p><strong>🤔 I’m looking for help with...</strong><br>
+    Optimizing smart contract gas fees, improving transaction speeds, and refining the integration of Web3 with frontend frameworks. I also need advice on building performant, user-friendly decentralized applications that work seamlessly on both desktop and mobile platforms.
+  </p>
+
+  <p><strong>💬 Ask me about...</strong><br>
+    Blockchain architecture, smart contracts (Solidity), Ethereum, Polkadot, decentralized applications, React, TypeScript, integrating blockchain with Web3.js, and building robust, full-stack web applications with an emphasis on user experience and security.
+  </p>
+
+  <p><strong>📫 How to reach me:</strong><br>
+    You can contact me via email at <a href="mailto:your-email@example.com">your-email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/your-linkedin-url">LinkedIn</a>.
+  </p>
+
+  <p><strong>😄 Pronouns:</strong> He/Him</p>
+
+  <p><strong>⚡ Fun fact:</strong><br>
+    I once built a fully decentralized voting system using Ethereum smart contracts, which was successfully tested in a real-world scenario!
+  </p>
+</div>
+
 
 ## Languages and Tools:
 
