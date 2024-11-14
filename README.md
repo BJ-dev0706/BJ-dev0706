@@ -80,15 +80,5 @@ Here are some ideas to get you started:
 </div>
 
 
-## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=BJ-dev0706&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BJ-dev0706&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=BJ-dev0706&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=BJ-dev0706&theme=onedark" />
-</div>
-
-
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
