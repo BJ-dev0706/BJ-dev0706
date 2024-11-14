@@ -82,7 +82,6 @@ Here are some ideas to get you started:
 ## My Journey
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=BJ-dev0706&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BJ-dev0706&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=BJ-dev0706&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=BJ-dev0706&theme=onedark" />
 </div>
