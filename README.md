@@ -78,9 +78,5 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BJ-dev0706&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
