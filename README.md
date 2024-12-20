@@ -26,10 +26,6 @@ Here are some ideas to get you started:
     Blockchain architecture, smart contracts (Solidity), Ethereum, Polkadot, decentralized applications, React, TypeScript, integrating blockchain with Web3.js, and building robust, full-stack web applications with an emphasis on user experience and security.
   </p>
 
-  <p><strong>📫 How to reach me:</strong><br>
-    You can contact me via email at <a href="mailto:kitchi734@gmail.com">kitchi734@gmail.com</a>.
-  </p>
-
   <p><strong>😄 Pronouns:</strong> He/Him</p>
 
   <p><strong>⚡ Fun fact:</strong><br>
