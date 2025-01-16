@@ -52,13 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJ-dev0706&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://t.me/strategicthinke" target="_blank">
