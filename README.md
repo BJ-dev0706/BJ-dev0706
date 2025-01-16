@@ -103,3 +103,4 @@ Here are some ideas to get you started:
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+<img src="https://avatars.githubusercontent.com/u/177471854?v=4" width="60"> <em><b>If you want to talk to me, come here 😎</em>
