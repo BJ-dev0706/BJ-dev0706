@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-![Header](https://your-image-link.com/banner.png) <!-- Replace with your custom banner -->
+ <!-- ![Header](https://your-image-link.com/banner.png) Replace with your custom banner -->
 
 <div align="center">
   <h1>Hi there, I'm Wizard 👋</h1>
