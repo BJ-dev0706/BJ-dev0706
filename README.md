@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://t.me/strategicthinke" target="_blank">
+  <a href="https://t.me/digitalwizard0" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" width="40" alt="Telegram" />
   </a>
   <a href="https://discord.com" target="_blank">
