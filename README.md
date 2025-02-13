@@ -57,9 +57,6 @@ Here are some ideas to get you started:
   <a href="https://t.me/digitalwizard0" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" width="40" alt="Telegram" />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.freepik.com/premium-psd/discord-icon-isolated-white-background-social-media-app-button-logo-sign-symbol-front-view_989822-4786.jpg" width="40" alt="Discord" style="border-radius: 50%;" />
-  </a>
 </div>
 
 ---
