@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 -->
- ![Header](https://cdn.discordapp.com/banners/329391537592991746/a_72983acf18f2e90c146f3e61fc044f19.gif)
 
 ## 📖 About Me
 - 🔭 **Currently Working On**:  
